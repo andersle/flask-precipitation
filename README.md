@@ -11,6 +11,8 @@ Forecasted data is obtained using the
 [MET Norway Weather API](https://api.met.no/) and observations are obtained
 using the [Frost API](https://frost.met.no/index.html).
 
+A live demo can be found at: [andersle.pythonanywhere.com](https://andersle.pythonanywhere.com/)
+
 ## Set up
 
 In order to use the application, you will need to obtain a
@@ -37,3 +39,5 @@ The application itself is executed in the usual fashion:
 ![Data table](/examples/table.png)
 ![map1](/examples/map1.png)
 ![map2](/examples/map2.png)
+
+
