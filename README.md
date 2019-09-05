@@ -27,6 +27,8 @@ The application itself is executed in the usual fashion:
 ./app.py
 ```
 
-## Example
+## Example of generated output
 
 ![Data table](/examples/table.png)
+![map1](/examples/map1.png)
+![map2](/examples/map2.png)
