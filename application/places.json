@@ -1,0 +1,1794 @@
+[
+    {
+        "lat": 63.442663,
+        "lon": 10.946443,
+        "name": "Hell",
+        "stations": [
+            {
+                "distance": 2058.966582483274,
+                "id": "SN69100",
+                "lat": 63.4597,
+                "lon": 10.9305,
+                "name": "V\u00c6RNES"
+            },
+            {
+                "distance": 6075.278500445849,
+                "id": "SN69150",
+                "lat": 63.4882,
+                "lon": 10.8795,
+                "name": "KVITHAMAR"
+            },
+            {
+                "distance": 7735.136159067651,
+                "id": "SN69050",
+                "lat": 63.42,
+                "lon": 10.8,
+                "name": "HOMMELVIK"
+            },
+            {
+                "distance": 13667.825992509148,
+                "id": "SN69190",
+                "lat": 63.338,
+                "lon": 11.0887,
+                "name": "RV705 SELBUSKOGEN"
+            },
+            {
+                "distance": 14218.76471502237,
+                "id": "SN69035",
+                "lat": 63.4262,
+                "lon": 10.664,
+                "name": "E6 MALVIK"
+            },
+            {
+                "distance": 18590.510042942868,
+                "id": "SN69655",
+                "lat": 63.5652,
+                "lon": 10.6932,
+                "name": "FROSTA"
+            },
+            {
+                "distance": 20699.94005127328,
+                "id": "SN69020",
+                "lat": 63.4248,
+                "lon": 10.5337,
+                "name": "RANHEIM"
+            },
+            {
+                "distance": 20899.48633009403,
+                "id": "SN69550",
+                "lat": 63.4871,
+                "lon": 11.3536,
+                "name": "\u00d8ST\u00c5S I HEGRA"
+            },
+            {
+                "distance": 20940.89909567506,
+                "id": "SN69625",
+                "lat": 63.622,
+                "lon": 11.0718,
+                "name": "E6 \u00c5SEN"
+            },
+            {
+                "distance": 24477.183019095923,
+                "id": "SN68290",
+                "lat": 63.2248,
+                "lon": 11.0075,
+                "name": "SELBU II"
+            },
+            {
+                "distance": 24855.737722937916,
+                "id": "SN68860",
+                "lat": 63.4107,
+                "lon": 10.4538,
+                "name": "TRONDHEIM - VOLL"
+            },
+            {
+                "distance": 24870.562478668642,
+                "id": "SN68863",
+                "lat": 63.4107,
+                "lon": 10.4535,
+                "name": "TRONDHEIM - VOLL PLU"
+            },
+            {
+                "distance": 25133.664214313914,
+                "id": "SN68050",
+                "lat": 63.4429,
+                "lon": 10.4428,
+                "name": "LADE"
+            },
+            {
+                "distance": 25645.40643789467,
+                "id": "SN68175",
+                "lat": 63.4078,
+                "lon": 10.4388,
+                "name": "E6 MOHOLTLIA"
+            },
+            {
+                "distance": 26607.301170747254,
+                "id": "SN68230",
+                "lat": 63.3987,
+                "lon": 10.4228,
+                "name": "TRONDHEIM - RISVOLLAN"
+            }
+        ]
+    },
+    {
+        "lat": 63.076634,
+        "lon": 10.264406,
+        "name": "St\u00f8ren",
+        "stations": [
+            {
+                "distance": 5258.252631524126,
+                "id": "SN67255",
+                "lat": 63.03,
+                "lon": 10.28,
+                "name": "ST\u00d8REN"
+            },
+            {
+                "distance": 6912.261172855985,
+                "id": "SN67210",
+                "lat": 63.1385,
+                "lon": 10.255,
+                "name": "E6 HORG"
+            },
+            {
+                "distance": 10527.804541243671,
+                "id": "SN67270",
+                "lat": 62.983,
+                "lon": 10.2373,
+                "name": "E6 SOKNEDAL"
+            },
+            {
+                "distance": 11919.550787560236,
+                "id": "SN67202",
+                "lat": 63.1095,
+                "lon": 10.4888,
+                "name": "MELHUS - GAMMEL\u00c5SEN"
+            },
+            {
+                "distance": 14396.722727220797,
+                "id": "SN67280",
+                "lat": 62.9535,
+                "lon": 10.1788,
+                "name": "SOKNEDAL"
+            },
+            {
+                "distance": 18715.144860867636,
+                "id": "SN67560",
+                "lat": 62.9763,
+                "lon": 10.5608,
+                "name": "KOTS\u00d8Y"
+            },
+            {
+                "distance": 19329.068651940917,
+                "id": "SN68270",
+                "lat": 63.2315,
+                "lon": 10.4369,
+                "name": "L\u00d8KSMYR"
+            },
+            {
+                "distance": 22681.69526321185,
+                "id": "SN67160",
+                "lat": 63.28,
+                "lon": 10.28,
+                "name": "MELHUS"
+            },
+            {
+                "distance": 23614.710573257376,
+                "id": "SN66230",
+                "lat": 63.1423,
+                "lon": 9.8197,
+                "name": "\u00c5MOT I MELDAL"
+            },
+            {
+                "distance": 26988.30362696211,
+                "id": "SN67340",
+                "lat": 62.8613,
+                "lon": 10.0213,
+                "name": "E6 BUVATNET"
+            },
+            {
+                "distance": 27185.85708494764,
+                "id": "SN67155",
+                "lat": 63.32,
+                "lon": 10.3,
+                "name": "KLETT - SKJETLEIN"
+            },
+            {
+                "distance": 27672.498827117844,
+                "id": "SN67153",
+                "lat": 63.3237,
+                "lon": 10.3183,
+                "name": "E6 KLETT"
+            },
+            {
+                "distance": 28033.205570965063,
+                "id": "SN67150",
+                "lat": 63.3281,
+                "lon": 10.2733,
+                "name": "LEINSTRAND"
+            },
+            {
+                "distance": 29436.185653755827,
+                "id": "SN67140",
+                "lat": 63.3403,
+                "lon": 10.2973,
+                "name": "SKJETLEIN"
+            },
+            {
+                "distance": 29726.775670457668,
+                "id": "SN67020",
+                "lat": 63.33,
+                "lon": 10.08,
+                "name": "SKAUN - B\u00d8RSA"
+            }
+        ]
+    },
+    {
+        "lat": 63.317385,
+        "lon": 9.573641,
+        "name": "Hardmoen",
+        "stations": [
+            {
+                "distance": 987.2860162843747,
+                "id": "SN66120",
+                "lat": 63.3093,
+                "lon": 9.5685,
+                "name": "RV714 V\u00c5VATNET"
+            },
+            {
+                "distance": 9919.093906922597,
+                "id": "SN65980",
+                "lat": 63.4,
+                "lon": 9.5,
+                "name": "SNILLFJORD"
+            },
+            {
+                "distance": 13547.057665179822,
+                "id": "SN66175",
+                "lat": 63.2307,
+                "lon": 9.7628,
+                "name": "FV65 BYE"
+            },
+            {
+                "distance": 13740.149571713313,
+                "id": "SN65275",
+                "lat": 63.228,
+                "lon": 9.3853,
+                "name": "E39 HEMNEKJ\u00d8LEN"
+            },
+            {
+                "distance": 13829.022217793183,
+                "id": "SN66150",
+                "lat": 63.3153,
+                "lon": 9.8495,
+                "name": "ORKDAL - THAMSHAMN"
+            },
+            {
+                "distance": 13990.67007343689,
+                "id": "SN66160",
+                "lat": 63.3,
+                "lon": 9.85,
+                "name": "ORKANGER"
+            },
+            {
+                "distance": 14897.359327391896,
+                "id": "SN65270",
+                "lat": 63.2302,
+                "lon": 9.3488,
+                "name": "S\u00d8VATNET"
+            },
+            {
+                "distance": 21324.582304727184,
+                "id": "SN67005",
+                "lat": 63.3297,
+                "lon": 9.9983,
+                "name": "E39 KALDFOSS"
+            },
+            {
+                "distance": 23107.83300299456,
+                "id": "SN66230",
+                "lat": 63.1423,
+                "lon": 9.8197,
+                "name": "\u00c5MOT I MELDAL"
+            },
+            {
+                "distance": 25106.491902170772,
+                "id": "SN65200",
+                "lat": 63.28,
+                "lon": 9.08,
+                "name": "KYRKS\u00c6TER\u00d8RA"
+            },
+            {
+                "distance": 25256.82495808532,
+                "id": "SN66035",
+                "lat": 63.52,
+                "lon": 9.8,
+                "name": "LENSVIK"
+            },
+            {
+                "distance": 25412.99517951863,
+                "id": "SN67020",
+                "lat": 63.33,
+                "lon": 10.08,
+                "name": "SKAUN - B\u00d8RSA"
+            },
+            {
+                "distance": 25515.40948799123,
+                "id": "SN64590",
+                "lat": 63.097,
+                "lon": 9.4367,
+                "name": "FV65 \u00d8VRE RINDAL"
+            },
+            {
+                "distance": 28887.551861097683,
+                "id": "SN65230",
+                "lat": 63.2613,
+                "lon": 9.0115,
+                "name": "HEMNE - LENES"
+            },
+            {
+                "distance": 32156.690719273618,
+                "id": "SN65451",
+                "lat": 63.5187,
+                "lon": 9.1125,
+                "name": "HITRA - SANDSTAD II"
+            }
+        ]
+    },
+    {
+        "lat": 63.42635,
+        "lon": 9.497188,
+        "name": "Snillfjord",
+        "stations": [
+            {
+                "distance": 2940.5857165329294,
+                "id": "SN65980",
+                "lat": 63.4,
+                "lon": 9.5,
+                "name": "SNILLFJORD"
+            },
+            {
+                "distance": 13530.223857243087,
+                "id": "SN66120",
+                "lat": 63.3093,
+                "lon": 9.5685,
+                "name": "RV714 V\u00c5VATNET"
+            },
+            {
+                "distance": 18353.413807326513,
+                "id": "SN66035",
+                "lat": 63.52,
+                "lon": 9.8,
+                "name": "LENSVIK"
+            },
+            {
+                "distance": 21538.188336616946,
+                "id": "SN66150",
+                "lat": 63.3153,
+                "lon": 9.8495,
+                "name": "ORKDAL - THAMSHAMN"
+            },
+            {
+                "distance": 21765.66814521302,
+                "id": "SN65451",
+                "lat": 63.5187,
+                "lon": 9.1125,
+                "name": "HITRA - SANDSTAD II"
+            },
+            {
+                "distance": 22584.76827076165,
+                "id": "SN66160",
+                "lat": 63.3,
+                "lon": 9.85,
+                "name": "ORKANGER"
+            },
+            {
+                "distance": 22812.418243852673,
+                "id": "SN65275",
+                "lat": 63.228,
+                "lon": 9.3853,
+                "name": "E39 HEMNEKJ\u00d8LEN"
+            },
+            {
+                "distance": 23096.246298291724,
+                "id": "SN65270",
+                "lat": 63.2302,
+                "lon": 9.3488,
+                "name": "S\u00d8VATNET"
+            },
+            {
+                "distance": 25548.133705880467,
+                "id": "SN66175",
+                "lat": 63.2307,
+                "lon": 9.7628,
+                "name": "FV65 BYE"
+            },
+            {
+                "distance": 26297.36093854056,
+                "id": "SN65530",
+                "lat": 63.554,
+                "lon": 9.0533,
+                "name": "FV714 HITRA"
+            },
+            {
+                "distance": 26455.378084172724,
+                "id": "SN71340",
+                "lat": 63.57,
+                "lon": 9.92,
+                "name": "RISSA"
+            },
+            {
+                "distance": 26500.436724101626,
+                "id": "SN65200",
+                "lat": 63.28,
+                "lon": 9.08,
+                "name": "KYRKS\u00c6TER\u00d8RA"
+            },
+            {
+                "distance": 27281.28267620205,
+                "id": "SN67005",
+                "lat": 63.3297,
+                "lon": 9.9983,
+                "name": "E39 KALDFOSS"
+            },
+            {
+                "distance": 29518.656580624975,
+                "id": "SN71320",
+                "lat": 63.5858,
+                "lon": 9.9705,
+                "name": "RISSA III"
+            },
+            {
+                "distance": 30495.84789426731,
+                "id": "SN65230",
+                "lat": 63.2613,
+                "lon": 9.0115,
+                "name": "HEMNE - LENES"
+            }
+        ]
+    },
+    {
+        "lat": 63.692248,
+        "lon": 10.941301,
+        "name": "Ekne",
+        "stations": [
+            {
+                "distance": 10153.817085723414,
+                "id": "SN69625",
+                "lat": 63.622,
+                "lon": 11.0718,
+                "name": "E6 \u00c5SEN"
+            },
+            {
+                "distance": 13726.82406274449,
+                "id": "SN71200",
+                "lat": 63.8128,
+                "lon": 10.998,
+                "name": "MOSVIK - TR\u00d8AHAUGEN"
+            },
+            {
+                "distance": 14532.742312590251,
+                "id": "SN71195",
+                "lat": 63.82,
+                "lon": 11.0,
+                "name": "MOSVIK"
+            },
+            {
+                "distance": 15119.213339277301,
+                "id": "SN71230",
+                "lat": 63.7905,
+                "lon": 10.7303,
+                "name": "FV755 MELTINGEN"
+            },
+            {
+                "distance": 16093.023736510502,
+                "id": "SN71250",
+                "lat": 63.67,
+                "lon": 10.62,
+                "name": "LEKSVIK - R\u00d8NNINGEN"
+            },
+            {
+                "distance": 16532.152928853437,
+                "id": "SN71280",
+                "lat": 63.6856,
+                "lon": 10.6075,
+                "name": "LEKSVIK - MYRAN"
+            },
+            {
+                "distance": 18758.495525504644,
+                "id": "SN69655",
+                "lat": 63.5652,
+                "lon": 10.6932,
+                "name": "FROSTA"
+            },
+            {
+                "distance": 22951.488242819567,
+                "id": "SN69150",
+                "lat": 63.4882,
+                "lon": 10.8795,
+                "name": "KVITHAMAR"
+            },
+            {
+                "distance": 25927.858698940934,
+                "id": "SN69100",
+                "lat": 63.4597,
+                "lon": 10.9305,
+                "name": "V\u00c6RNES"
+            },
+            {
+                "distance": 29940.66240374343,
+                "id": "SN69960",
+                "lat": 63.7199,
+                "lon": 11.5436,
+                "name": "BURAN"
+            },
+            {
+                "distance": 30692.148585121606,
+                "id": "SN69550",
+                "lat": 63.4871,
+                "lon": 11.3536,
+                "name": "\u00d8ST\u00c5S I HEGRA"
+            },
+            {
+                "distance": 31149.734761966916,
+                "id": "SN69050",
+                "lat": 63.42,
+                "lon": 10.8,
+                "name": "HOMMELVIK"
+            },
+            {
+                "distance": 32703.035247166223,
+                "id": "SN69035",
+                "lat": 63.4262,
+                "lon": 10.664,
+                "name": "E6 MALVIK"
+            },
+            {
+                "distance": 34570.97576789543,
+                "id": "SN71385",
+                "lat": 63.6965,
+                "lon": 10.2425,
+                "name": "FV715 HOGSDALEN"
+            },
+            {
+                "distance": 36044.33252358399,
+                "id": "SN69020",
+                "lat": 63.4248,
+                "lon": 10.5337,
+                "name": "RANHEIM"
+            }
+        ]
+    },
+    {
+        "lat": 63.470178,
+        "lon": 9.485975,
+        "name": "Kongeveggen",
+        "stations": [
+            {
+                "distance": 7853.926531789537,
+                "id": "SN65980",
+                "lat": 63.4,
+                "lon": 9.5,
+                "name": "SNILLFJORD"
+            },
+            {
+                "distance": 16599.09537706563,
+                "id": "SN66035",
+                "lat": 63.52,
+                "lon": 9.8,
+                "name": "LENSVIK"
+            },
+            {
+                "distance": 18404.289521030423,
+                "id": "SN66120",
+                "lat": 63.3093,
+                "lon": 9.5685,
+                "name": "RV714 V\u00c5VATNET"
+            },
+            {
+                "distance": 19374.50628351836,
+                "id": "SN65451",
+                "lat": 63.5187,
+                "lon": 9.1125,
+                "name": "HITRA - SANDSTAD II"
+            },
+            {
+                "distance": 23479.353784931063,
+                "id": "SN65530",
+                "lat": 63.554,
+                "lon": 9.0533,
+                "name": "FV714 HITRA"
+            },
+            {
+                "distance": 24298.50563157228,
+                "id": "SN71340",
+                "lat": 63.57,
+                "lon": 9.92,
+                "name": "RISSA"
+            },
+            {
+                "distance": 25065.80327455809,
+                "id": "SN66150",
+                "lat": 63.3153,
+                "lon": 9.8495,
+                "name": "ORKDAL - THAMSHAMN"
+            },
+            {
+                "distance": 26290.180149146567,
+                "id": "SN66160",
+                "lat": 63.3,
+                "lon": 9.85,
+                "name": "ORKANGER"
+            },
+            {
+                "distance": 26841.890127375253,
+                "id": "SN71550",
+                "lat": 63.7045,
+                "lon": 9.6105,
+                "name": "\u00d8RLAND III"
+            },
+            {
+                "distance": 27336.63591295841,
+                "id": "SN71320",
+                "lat": 63.5858,
+                "lon": 9.9705,
+                "name": "RISSA III"
+            },
+            {
+                "distance": 27464.396828105757,
+                "id": "SN65275",
+                "lat": 63.228,
+                "lon": 9.3853,
+                "name": "E39 HEMNEKJ\u00d8LEN"
+            },
+            {
+                "distance": 27619.5182421357,
+                "id": "SN65270",
+                "lat": 63.2302,
+                "lon": 9.3488,
+                "name": "S\u00d8VATNET"
+            },
+            {
+                "distance": 29032.383263172498,
+                "id": "SN65650",
+                "lat": 63.6,
+                "lon": 8.98,
+                "name": "HITRA - FILLAN"
+            },
+            {
+                "distance": 29356.00799494482,
+                "id": "SN65200",
+                "lat": 63.28,
+                "lon": 9.08,
+                "name": "KYRKS\u00c6TER\u00d8RA"
+            },
+            {
+                "distance": 30013.786519733203,
+                "id": "SN67005",
+                "lat": 63.3297,
+                "lon": 9.9983,
+                "name": "E39 KALDFOSS"
+            }
+        ]
+    },
+    {
+        "lat": 62.574994,
+        "lon": 9.384899,
+        "name": "Ishoel",
+        "stations": [
+            {
+                "distance": 6897.413967214639,
+                "id": "SN63630",
+                "lat": 62.6352,
+                "lon": 9.392,
+                "name": "TROLLHEIMEN - STORHORNET"
+            },
+            {
+                "distance": 8840.446710025393,
+                "id": "SN63595",
+                "lat": 62.5818,
+                "lon": 9.2136,
+                "name": "RV70 GR\u00c5URA"
+            },
+            {
+                "distance": 11143.490194037733,
+                "id": "SN63850",
+                "lat": 62.6393,
+                "lon": 9.5505,
+                "name": "D\u00d8RRESL\u00d8KKJA"
+            },
+            {
+                "distance": 14411.800141515194,
+                "id": "SN63580",
+                "lat": 62.6708,
+                "lon": 9.1967,
+                "name": "\u00c5NG\u00c5RDSVATNET"
+            },
+            {
+                "distance": 14856.518358514355,
+                "id": "SN63705",
+                "lat": 62.6043,
+                "lon": 9.6667,
+                "name": "OPPDAL - S\u00c6TER"
+            },
+            {
+                "distance": 17518.199260599955,
+                "id": "SN63820",
+                "lat": 62.4473,
+                "lon": 9.5827,
+                "name": "DRIVDALEN"
+            },
+            {
+                "distance": 17541.742054356626,
+                "id": "SN63725",
+                "lat": 62.6007,
+                "lon": 9.7215,
+                "name": "E6 OPPDAL"
+            },
+            {
+                "distance": 19453.514793444236,
+                "id": "SN63583",
+                "lat": 62.69,
+                "lon": 9.1,
+                "name": "STORLIGRENDA"
+            },
+            {
+                "distance": 22222.82552237084,
+                "id": "SN63530",
+                "lat": 62.5095,
+                "lon": 8.9773,
+                "name": "HAFS\u00c5S"
+            },
+            {
+                "distance": 31201.713548136908,
+                "id": "SN9380",
+                "lat": 62.2958,
+                "lon": 9.352,
+                "name": "SN\u00d8HEIM"
+            },
+            {
+                "distance": 32386.964486620087,
+                "id": "SN66560",
+                "lat": 62.8272,
+                "lon": 9.6988,
+                "name": "NERSKOGEN - GRANASJ\u00d8EN"
+            },
+            {
+                "distance": 34872.77980654652,
+                "id": "SN63940",
+                "lat": 62.2767,
+                "lon": 9.5877,
+                "name": "E6 GR\u00d8NBAKKEN"
+            },
+            {
+                "distance": 35297.73291689319,
+                "id": "SN64700",
+                "lat": 62.722,
+                "lon": 8.7753,
+                "name": "INNERDALEN"
+            },
+            {
+                "distance": 36475.649761120156,
+                "id": "SN66740",
+                "lat": 62.7512,
+                "lon": 9.9845,
+                "name": "E6 ULSBERG"
+            },
+            {
+                "distance": 39012.029308543235,
+                "id": "SN9303",
+                "lat": 62.2318,
+                "lon": 9.5317,
+                "name": "E6 HJERKINN"
+            }
+        ]
+    },
+    {
+        "lat": 63.553677,
+        "lon": 9.40233,
+        "name": "Kongensvoll",
+        "stations": [
+            {
+                "distance": 14934.409259305145,
+                "id": "SN65451",
+                "lat": 63.5187,
+                "lon": 9.1125,
+                "name": "HITRA - SANDSTAD II"
+            },
+            {
+                "distance": 17350.705907674605,
+                "id": "SN65530",
+                "lat": 63.554,
+                "lon": 9.0533,
+                "name": "FV714 HITRA"
+            },
+            {
+                "distance": 17808.608848318756,
+                "id": "SN65980",
+                "lat": 63.4,
+                "lon": 9.5,
+                "name": "SNILLFJORD"
+            },
+            {
+                "distance": 19727.656390758904,
+                "id": "SN71550",
+                "lat": 63.7045,
+                "lon": 9.6105,
+                "name": "\u00d8RLAND III"
+            },
+            {
+                "distance": 20133.214283474015,
+                "id": "SN66035",
+                "lat": 63.52,
+                "lon": 9.8,
+                "name": "LENSVIK"
+            },
+            {
+                "distance": 21603.463023882447,
+                "id": "SN65650",
+                "lat": 63.6,
+                "lon": 8.98,
+                "name": "HITRA - FILLAN"
+            },
+            {
+                "distance": 25790.590383937273,
+                "id": "SN71340",
+                "lat": 63.57,
+                "lon": 9.92,
+                "name": "RISSA"
+            },
+            {
+                "distance": 28454.39233867624,
+                "id": "SN71320",
+                "lat": 63.5858,
+                "lon": 9.9705,
+                "name": "RISSA III"
+            },
+            {
+                "distance": 28477.85744126881,
+                "id": "SN66120",
+                "lat": 63.3093,
+                "lon": 9.5685,
+                "name": "RV714 V\u00c5VATNET"
+            },
+            {
+                "distance": 31769.511147833735,
+                "id": "SN71580",
+                "lat": 63.77,
+                "lon": 9.82,
+                "name": "BJUGN - BOTNG\u00c5RD"
+            },
+            {
+                "distance": 34494.07034533096,
+                "id": "SN65200",
+                "lat": 63.28,
+                "lon": 9.08,
+                "name": "KYRKS\u00c6TER\u00d8RA"
+            },
+            {
+                "distance": 34507.48211556474,
+                "id": "SN65900",
+                "lat": 63.73,
+                "lon": 8.83,
+                "name": "FR\u00d8YA - SISTRANDA"
+            },
+            {
+                "distance": 34703.049748018515,
+                "id": "SN66150",
+                "lat": 63.3153,
+                "lon": 9.8495,
+                "name": "ORKDAL - THAMSHAMN"
+            },
+            {
+                "distance": 36044.73947361188,
+                "id": "SN66160",
+                "lat": 63.3,
+                "lon": 9.85,
+                "name": "ORKANGER"
+            },
+            {
+                "distance": 36158.56598992235,
+                "id": "SN65270",
+                "lat": 63.2302,
+                "lon": 9.3488,
+                "name": "S\u00d8VATNET"
+            }
+        ]
+    },
+    {
+        "lat": 63.56539,
+        "lon": 9.478963,
+        "name": "Kamberget",
+        "stations": [
+            {
+                "distance": 16747.71412016258,
+                "id": "SN66035",
+                "lat": 63.52,
+                "lon": 9.8,
+                "name": "LENSVIK"
+            },
+            {
+                "distance": 16821.84021520702,
+                "id": "SN71550",
+                "lat": 63.7045,
+                "lon": 9.6105,
+                "name": "\u00d8RLAND III"
+            },
+            {
+                "distance": 18465.709139553586,
+                "id": "SN65980",
+                "lat": 63.4,
+                "lon": 9.5,
+                "name": "SNILLFJORD"
+            },
+            {
+                "distance": 18953.142907821286,
+                "id": "SN65451",
+                "lat": 63.5187,
+                "lon": 9.1125,
+                "name": "HITRA - SANDSTAD II"
+            },
+            {
+                "distance": 21193.82268610975,
+                "id": "SN65530",
+                "lat": 63.554,
+                "lon": 9.0533,
+                "name": "FV714 HITRA"
+            },
+            {
+                "distance": 21919.490003299947,
+                "id": "SN71340",
+                "lat": 63.57,
+                "lon": 9.92,
+                "name": "RISSA"
+            },
+            {
+                "distance": 24521.642683520684,
+                "id": "SN71320",
+                "lat": 63.5858,
+                "lon": 9.9705,
+                "name": "RISSA III"
+            },
+            {
+                "distance": 25077.09932275931,
+                "id": "SN65650",
+                "lat": 63.6,
+                "lon": 8.98,
+                "name": "HITRA - FILLAN"
+            },
+            {
+                "distance": 28378.39646213126,
+                "id": "SN71580",
+                "lat": 63.77,
+                "lon": 9.82,
+                "name": "BJUGN - BOTNG\u00c5RD"
+            },
+            {
+                "distance": 28896.033656582025,
+                "id": "SN66120",
+                "lat": 63.3093,
+                "lon": 9.5685,
+                "name": "RV714 V\u00c5VATNET"
+            },
+            {
+                "distance": 33453.10819905118,
+                "id": "SN66150",
+                "lat": 63.3153,
+                "lon": 9.8495,
+                "name": "ORKDAL - THAMSHAMN"
+            },
+            {
+                "distance": 34902.879466156264,
+                "id": "SN66160",
+                "lat": 63.3,
+                "lon": 9.85,
+                "name": "ORKANGER"
+            },
+            {
+                "distance": 36022.685507284055,
+                "id": "SN71370",
+                "lat": 63.6427,
+                "lon": 10.1838,
+                "name": "SLIPER"
+            },
+            {
+                "distance": 36900.99703719239,
+                "id": "SN67005",
+                "lat": 63.3297,
+                "lon": 9.9983,
+                "name": "E39 KALDFOSS"
+            },
+            {
+                "distance": 37021.15519298005,
+                "id": "SN65900",
+                "lat": 63.73,
+                "lon": 8.83,
+                "name": "FR\u00d8YA - SISTRANDA"
+            }
+        ]
+    },
+    {
+        "lat": 63.588639,
+        "lon": 9.556013,
+        "name": "Gravvikheia",
+        "stations": [
+            {
+                "distance": 13194.409446232869,
+                "id": "SN71550",
+                "lat": 63.7045,
+                "lon": 9.6105,
+                "name": "\u00d8RLAND III"
+            },
+            {
+                "distance": 14340.24153263545,
+                "id": "SN66035",
+                "lat": 63.52,
+                "lon": 9.8,
+                "name": "LENSVIK"
+            },
+            {
+                "distance": 18196.788984392475,
+                "id": "SN71340",
+                "lat": 63.57,
+                "lon": 9.92,
+                "name": "RISSA"
+            },
+            {
+                "distance": 20582.66698277948,
+                "id": "SN71320",
+                "lat": 63.5858,
+                "lon": 9.9705,
+                "name": "RISSA III"
+            },
+            {
+                "distance": 21211.82331869698,
+                "id": "SN65980",
+                "lat": 63.4,
+                "lon": 9.5,
+                "name": "SNILLFJORD"
+            },
+            {
+                "distance": 23385.115351535456,
+                "id": "SN65451",
+                "lat": 63.5187,
+                "lon": 9.1125,
+                "name": "HITRA - SANDSTAD II"
+            },
+            {
+                "distance": 24071.022855742325,
+                "id": "SN71580",
+                "lat": 63.77,
+                "lon": 9.82,
+                "name": "BJUGN - BOTNG\u00c5RD"
+            },
+            {
+                "distance": 25271.669108396196,
+                "id": "SN65530",
+                "lat": 63.554,
+                "lon": 9.0533,
+                "name": "FV714 HITRA"
+            },
+            {
+                "distance": 28621.201135770745,
+                "id": "SN65650",
+                "lat": 63.6,
+                "lon": 8.98,
+                "name": "HITRA - FILLAN"
+            },
+            {
+                "distance": 31146.068896661887,
+                "id": "SN66120",
+                "lat": 63.3093,
+                "lon": 9.5685,
+                "name": "RV714 V\u00c5VATNET"
+            },
+            {
+                "distance": 31718.298654613514,
+                "id": "SN71370",
+                "lat": 63.6427,
+                "lon": 10.1838,
+                "name": "SLIPER"
+            },
+            {
+                "distance": 33803.98862268203,
+                "id": "SN66150",
+                "lat": 63.3153,
+                "lon": 9.8495,
+                "name": "ORKDAL - THAMSHAMN"
+            },
+            {
+                "distance": 35360.84547318376,
+                "id": "SN66160",
+                "lat": 63.3,
+                "lon": 9.85,
+                "name": "ORKANGER"
+            },
+            {
+                "distance": 36082.77982256637,
+                "id": "SN71385",
+                "lat": 63.6965,
+                "lon": 10.2425,
+                "name": "FV715 HOGSDALEN"
+            },
+            {
+                "distance": 36327.966103557985,
+                "id": "SN67005",
+                "lat": 63.3297,
+                "lon": 9.9983,
+                "name": "E39 KALDFOSS"
+            }
+        ]
+    },
+    {
+        "lat": 63.627888,
+        "lon": 9.67741,
+        "name": "Agdenes",
+        "stations": [
+            {
+                "distance": 9160.22436832317,
+                "id": "SN71550",
+                "lat": 63.7045,
+                "lon": 9.6105,
+                "name": "\u00d8RLAND III"
+            },
+            {
+                "distance": 13480.312437657161,
+                "id": "SN66035",
+                "lat": 63.52,
+                "lon": 9.8,
+                "name": "LENSVIK"
+            },
+            {
+                "distance": 13660.35742790327,
+                "id": "SN71340",
+                "lat": 63.57,
+                "lon": 9.92,
+                "name": "RISSA"
+            },
+            {
+                "distance": 15280.645723401505,
+                "id": "SN71320",
+                "lat": 63.5858,
+                "lon": 9.9705,
+                "name": "RISSA III"
+            },
+            {
+                "distance": 17340.40290056236,
+                "id": "SN71580",
+                "lat": 63.77,
+                "lon": 9.82,
+                "name": "BJUGN - BOTNG\u00c5RD"
+            },
+            {
+                "distance": 25155.965801214188,
+                "id": "SN71370",
+                "lat": 63.6427,
+                "lon": 10.1838,
+                "name": "SLIPER"
+            },
+            {
+                "distance": 26894.00204210465,
+                "id": "SN65980",
+                "lat": 63.4,
+                "lon": 9.5,
+                "name": "SNILLFJORD"
+            },
+            {
+                "distance": 29011.84165507857,
+                "id": "SN71385",
+                "lat": 63.6965,
+                "lon": 10.2425,
+                "name": "FV715 HOGSDALEN"
+            },
+            {
+                "distance": 30588.41939276748,
+                "id": "SN65451",
+                "lat": 63.5187,
+                "lon": 9.1125,
+                "name": "HITRA - SANDSTAD II"
+            },
+            {
+                "distance": 32060.55469619603,
+                "id": "SN65530",
+                "lat": 63.554,
+                "lon": 9.0533,
+                "name": "FV714 HITRA"
+            },
+            {
+                "distance": 34734.75859172479,
+                "id": "SN65650",
+                "lat": 63.6,
+                "lon": 8.98,
+                "name": "HITRA - FILLAN"
+            },
+            {
+                "distance": 35884.500279160224,
+                "id": "SN66150",
+                "lat": 63.3153,
+                "lon": 9.8495,
+                "name": "ORKDAL - THAMSHAMN"
+            },
+            {
+                "distance": 35927.60527008899,
+                "id": "SN66120",
+                "lat": 63.3093,
+                "lon": 9.5685,
+                "name": "RV714 V\u00c5VATNET"
+            },
+            {
+                "distance": 36886.546428715046,
+                "id": "SN67005",
+                "lat": 63.3297,
+                "lon": 9.9983,
+                "name": "E39 KALDFOSS"
+            },
+            {
+                "distance": 37548.93539143436,
+                "id": "SN66160",
+                "lat": 63.3,
+                "lon": 9.85,
+                "name": "ORKANGER"
+            }
+        ]
+    },
+    {
+        "lat": 63.6394,
+        "lon": 9.732063,
+        "name": "Kamsheia",
+        "stations": [
+            {
+                "distance": 9427.480109187101,
+                "id": "SN71550",
+                "lat": 63.7045,
+                "lon": 9.6105,
+                "name": "\u00d8RLAND III"
+            },
+            {
+                "distance": 12116.825849409557,
+                "id": "SN71340",
+                "lat": 63.57,
+                "lon": 9.92,
+                "name": "RISSA"
+            },
+            {
+                "distance": 13251.821306025151,
+                "id": "SN71320",
+                "lat": 63.5858,
+                "lon": 9.9705,
+                "name": "RISSA III"
+            },
+            {
+                "distance": 13730.685379532408,
+                "id": "SN66035",
+                "lat": 63.52,
+                "lon": 9.8,
+                "name": "LENSVIK"
+            },
+            {
+                "distance": 15193.855766138446,
+                "id": "SN71580",
+                "lat": 63.77,
+                "lon": 9.82,
+                "name": "BJUGN - BOTNG\u00c5RD"
+            },
+            {
+                "distance": 22391.19335464532,
+                "id": "SN71370",
+                "lat": 63.6427,
+                "lon": 10.1838,
+                "name": "SLIPER"
+            },
+            {
+                "distance": 26063.166255467553,
+                "id": "SN71385",
+                "lat": 63.6965,
+                "lon": 10.2425,
+                "name": "FV715 HOGSDALEN"
+            },
+            {
+                "distance": 29078.020896916263,
+                "id": "SN65980",
+                "lat": 63.4,
+                "lon": 9.5,
+                "name": "SNILLFJORD"
+            },
+            {
+                "distance": 33584.22006903438,
+                "id": "SN65451",
+                "lat": 63.5187,
+                "lon": 9.1125,
+                "name": "HITRA - SANDSTAD II"
+            },
+            {
+                "distance": 35010.06881583134,
+                "id": "SN65530",
+                "lat": 63.554,
+                "lon": 9.0533,
+                "name": "FV714 HITRA"
+            },
+            {
+                "distance": 36598.24363837636,
+                "id": "SN66150",
+                "lat": 63.3153,
+                "lon": 9.8495,
+                "name": "ORKDAL - THAMSHAMN"
+            },
+            {
+                "distance": 36953.40300956337,
+                "id": "SN68010",
+                "lat": 63.4465,
+                "lon": 10.3364,
+                "name": "TRONDHEIM - H\u00d8VRINGEN"
+            },
+            {
+                "distance": 36983.67212598561,
+                "id": "SN67005",
+                "lat": 63.3297,
+                "lon": 9.9983,
+                "name": "E39 KALDFOSS"
+            },
+            {
+                "distance": 37556.555986693456,
+                "id": "SN65650",
+                "lat": 63.6,
+                "lon": 8.98,
+                "name": "HITRA - FILLAN"
+            },
+            {
+                "distance": 37690.582232642024,
+                "id": "SN66120",
+                "lat": 63.3093,
+                "lon": 9.5685,
+                "name": "RV714 V\u00c5VATNET"
+            }
+        ]
+    },
+    {
+        "lat": 63.700159,
+        "lon": 9.981809,
+        "name": "Selnes",
+        "stations": [
+            {
+                "distance": 11157.61798344578,
+                "id": "SN71580",
+                "lat": 63.77,
+                "lon": 9.82,
+                "name": "BJUGN - BOTNG\u00c5RD"
+            },
+            {
+                "distance": 11876.305568021997,
+                "id": "SN71370",
+                "lat": 63.6427,
+                "lon": 10.1838,
+                "name": "SLIPER"
+            },
+            {
+                "distance": 12760.15666097423,
+                "id": "SN71320",
+                "lat": 63.5858,
+                "lon": 9.9705,
+                "name": "RISSA III"
+            },
+            {
+                "distance": 12902.16882845113,
+                "id": "SN71385",
+                "lat": 63.6965,
+                "lon": 10.2425,
+                "name": "FV715 HOGSDALEN"
+            },
+            {
+                "distance": 14829.006794096042,
+                "id": "SN71340",
+                "lat": 63.57,
+                "lon": 9.92,
+                "name": "RISSA"
+            },
+            {
+                "distance": 18368.190284646374,
+                "id": "SN71550",
+                "lat": 63.7045,
+                "lon": 9.6105,
+                "name": "\u00d8RLAND III"
+            },
+            {
+                "distance": 22015.228703029512,
+                "id": "SN66035",
+                "lat": 63.52,
+                "lon": 9.8,
+                "name": "LENSVIK"
+            },
+            {
+                "distance": 30994.749921824747,
+                "id": "SN71280",
+                "lat": 63.6856,
+                "lon": 10.6075,
+                "name": "LEKSVIK - MYRAN"
+            },
+            {
+                "distance": 31720.967183147714,
+                "id": "SN71740",
+                "lat": 63.93,
+                "lon": 10.3615,
+                "name": "KARLAUNET"
+            },
+            {
+                "distance": 31757.14808984553,
+                "id": "SN71250",
+                "lat": 63.67,
+                "lon": 10.62,
+                "name": "LEKSVIK - R\u00d8NNINGEN"
+            },
+            {
+                "distance": 32021.938313349347,
+                "id": "SN71750",
+                "lat": 63.918,
+                "lon": 10.4055,
+                "name": "BREIVOLL"
+            },
+            {
+                "distance": 32123.21193633589,
+                "id": "SN71780",
+                "lat": 63.9678,
+                "lon": 10.2237,
+                "name": "\u00c5FJORD II"
+            },
+            {
+                "distance": 33313.48980205081,
+                "id": "SN68010",
+                "lat": 63.4465,
+                "lon": 10.3364,
+                "name": "TRONDHEIM - H\u00d8VRINGEN"
+            },
+            {
+                "distance": 35969.92300689954,
+                "id": "SN68125",
+                "lat": 63.4223,
+                "lon": 10.3498,
+                "name": "SVERRESBORG"
+            },
+            {
+                "distance": 36699.33760988107,
+                "id": "SN68050",
+                "lat": 63.4429,
+                "lon": 10.4428,
+                "name": "LADE"
+            }
+        ]
+    },
+    {
+        "lat": 63.42931,
+        "lon": 10.288836,
+        "name": "Tikneppen",
+        "stations": [
+            {
+                "distance": 3051.1670273327345,
+                "id": "SN68010",
+                "lat": 63.4465,
+                "lon": 10.3364,
+                "name": "TRONDHEIM - H\u00d8VRINGEN"
+            },
+            {
+                "distance": 3146.7314303142984,
+                "id": "SN68125",
+                "lat": 63.4223,
+                "lon": 10.3498,
+                "name": "SVERRESBORG"
+            },
+            {
+                "distance": 6114.1675852231565,
+                "id": "SN68173",
+                "lat": 63.4153,
+                "lon": 10.4072,
+                "name": "TRONDHEIM - GL\u00d8SHAUGEN"
+            },
+            {
+                "distance": 7512.185824347539,
+                "id": "SN68230",
+                "lat": 63.3987,
+                "lon": 10.4228,
+                "name": "TRONDHEIM - RISVOLLAN"
+            },
+            {
+                "distance": 7833.07175987505,
+                "id": "SN68050",
+                "lat": 63.4429,
+                "lon": 10.4428,
+                "name": "LADE"
+            },
+            {
+                "distance": 7865.49037559693,
+                "id": "SN68175",
+                "lat": 63.4078,
+                "lon": 10.4388,
+                "name": "E6 MOHOLTLIA"
+            },
+            {
+                "distance": 8217.65305162167,
+                "id": "SN68120",
+                "lat": 63.3628,
+                "lon": 10.3597,
+                "name": "SAUPSTAD"
+            },
+            {
+                "distance": 8482.514127423283,
+                "id": "SN68863",
+                "lat": 63.4107,
+                "lon": 10.4535,
+                "name": "TRONDHEIM - VOLL PLU"
+            },
+            {
+                "distance": 8497.041392667768,
+                "id": "SN68860",
+                "lat": 63.4107,
+                "lon": 10.4538,
+                "name": "TRONDHEIM - VOLL"
+            },
+            {
+                "distance": 9930.89754857537,
+                "id": "SN67140",
+                "lat": 63.3403,
+                "lon": 10.2973,
+                "name": "SKJETLEIN"
+            },
+            {
+                "distance": 9941.724519657315,
+                "id": "SN68238",
+                "lat": 63.3478,
+                "lon": 10.3695,
+                "name": "E6 HEIMDAL"
+            },
+            {
+                "distance": 11308.385979734727,
+                "id": "SN67150",
+                "lat": 63.3281,
+                "lon": 10.2733,
+                "name": "LEINSTRAND"
+            },
+            {
+                "distance": 11864.089476906396,
+                "id": "SN67153",
+                "lat": 63.3237,
+                "lon": 10.3183,
+                "name": "E6 KLETT"
+            },
+            {
+                "distance": 12197.345961168476,
+                "id": "SN67155",
+                "lat": 63.32,
+                "lon": 10.3,
+                "name": "KLETT - SKJETLEIN"
+            },
+            {
+                "distance": 12236.711693597676,
+                "id": "SN69020",
+                "lat": 63.4248,
+                "lon": 10.5337,
+                "name": "RANHEIM"
+            }
+        ]
+    },
+    {
+        "lat": 63.452581,
+        "lon": 10.436794,
+        "name": "Korsvika",
+        "stations": [
+            {
+                "distance": 1120.0414574374938,
+                "id": "SN68050",
+                "lat": 63.4429,
+                "lon": 10.4428,
+                "name": "LADE"
+            },
+            {
+                "distance": 4410.86300027264,
+                "id": "SN68173",
+                "lat": 63.4153,
+                "lon": 10.4072,
+                "name": "TRONDHEIM - GL\u00d8SHAUGEN"
+            },
+            {
+                "distance": 4744.072470136694,
+                "id": "SN68863",
+                "lat": 63.4107,
+                "lon": 10.4535,
+                "name": "TRONDHEIM - VOLL PLU"
+            },
+            {
+                "distance": 4746.728395938354,
+                "id": "SN68860",
+                "lat": 63.4107,
+                "lon": 10.4538,
+                "name": "TRONDHEIM - VOLL"
+            },
+            {
+                "distance": 4994.162203249087,
+                "id": "SN68175",
+                "lat": 63.4078,
+                "lon": 10.4388,
+                "name": "E6 MOHOLTLIA"
+            },
+            {
+                "distance": 5054.727526281087,
+                "id": "SN68010",
+                "lat": 63.4465,
+                "lon": 10.3364,
+                "name": "TRONDHEIM - H\u00d8VRINGEN"
+            },
+            {
+                "distance": 5502.039071690579,
+                "id": "SN68125",
+                "lat": 63.4223,
+                "lon": 10.3498,
+                "name": "SVERRESBORG"
+            },
+            {
+                "distance": 5743.134944319908,
+                "id": "SN69020",
+                "lat": 63.4248,
+                "lon": 10.5337,
+                "name": "RANHEIM"
+            },
+            {
+                "distance": 6047.163609958018,
+                "id": "SN68230",
+                "lat": 63.3987,
+                "lon": 10.4228,
+                "name": "TRONDHEIM - RISVOLLAN"
+            },
+            {
+                "distance": 10724.403766558866,
+                "id": "SN68120",
+                "lat": 63.3628,
+                "lon": 10.3597,
+                "name": "SAUPSTAD"
+            },
+            {
+                "distance": 11715.73730549594,
+                "id": "SN69035",
+                "lat": 63.4262,
+                "lon": 10.664,
+                "name": "E6 MALVIK"
+            },
+            {
+                "distance": 12155.244799435359,
+                "id": "SN68238",
+                "lat": 63.3478,
+                "lon": 10.3695,
+                "name": "E6 HEIMDAL"
+            },
+            {
+                "distance": 14326.991887047914,
+                "id": "SN67140",
+                "lat": 63.3403,
+                "lon": 10.2973,
+                "name": "SKJETLEIN"
+            },
+            {
+                "distance": 15539.869827775567,
+                "id": "SN67153",
+                "lat": 63.3237,
+                "lon": 10.3183,
+                "name": "E6 KLETT"
+            },
+            {
+                "distance": 16104.212965334826,
+                "id": "SN67150",
+                "lat": 63.3281,
+                "lon": 10.2733,
+                "name": "LEINSTRAND"
+            }
+        ]
+    },
+    {
+        "lat": 59.266689,
+        "lon": 8.407803,
+        "name": "H\u00e6gefjell",
+        "stations": [
+            {
+                "distance": 15935.414730487933,
+                "id": "SN32850",
+                "lat": 59.4058,
+                "lon": 8.473,
+                "name": "KVITESEID - MOEN"
+            },
+            {
+                "distance": 15947.238163791846,
+                "id": "SN37500",
+                "lat": 59.3242,
+                "lon": 8.1517,
+                "name": "FOLDS\u00c6"
+            },
+            {
+                "distance": 17566.558991834285,
+                "id": "SN32840",
+                "lat": 59.42,
+                "lon": 8.48,
+                "name": "KVITESEID"
+            },
+            {
+                "distance": 18256.126436451443,
+                "id": "SN37600",
+                "lat": 59.2842,
+                "lon": 8.0895,
+                "name": "FV355 VEUM"
+            },
+            {
+                "distance": 20584.07117984117,
+                "id": "SN34900",
+                "lat": 59.2647,
+                "lon": 8.7686,
+                "name": "POSTMYR I DRANGEDAL"
+            },
+            {
+                "distance": 21065.15344121022,
+                "id": "SN37760",
+                "lat": 59.18,
+                "lon": 8.08,
+                "name": "FYRESDAL"
+            },
+            {
+                "distance": 24747.710784928327,
+                "id": "SN34800",
+                "lat": 59.1482,
+                "lon": 8.7742,
+                "name": "T\u00d8RDAL - SUVD\u00d8LA"
+            },
+            {
+                "distance": 27587.323111693044,
+                "id": "SN37230",
+                "lat": 59.0257,
+                "lon": 8.5187,
+                "name": "TVEITSUND"
+            },
+            {
+                "distance": 27724.715240234418,
+                "id": "SN37150",
+                "lat": 59.0523,
+                "lon": 8.6537,
+                "name": "STORGAMA"
+            },
+            {
+                "distance": 28228.72025355657,
+                "id": "SN32290",
+                "lat": 59.4895,
+                "lon": 8.6443,
+                "name": "RV36 SELJORD"
+            },
+            {
+                "distance": 28270.849528967825,
+                "id": "SN32890",
+                "lat": 59.497,
+                "lon": 8.1992,
+                "name": "H\u00d8YDALSMO II"
+            },
+            {
+                "distance": 28897.318483665607,
+                "id": "SN32301",
+                "lat": 59.5,
+                "lon": 8.63,
+                "name": "SELJORD"
+            },
+            {
+                "distance": 34086.848994266365,
+                "id": "SN33430",
+                "lat": 59.5315,
+                "lon": 8.1075,
+                "name": "E134 GR\u00d8NLIHEIA"
+            },
+            {
+                "distance": 35298.899225856025,
+                "id": "SN37570",
+                "lat": 59.38,
+                "lon": 7.829,
+                "name": "BORS\u00c6"
+            },
+            {
+                "distance": 37108.452682937,
+                "id": "SN31855",
+                "lat": 59.5873,
+                "lon": 8.585,
+                "name": "E134 AMBJ\u00d8RNDALEN"
+            }
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+altair
+jinja2
+flask
+folium
+lxml
+matplotlib
+normetapi
+numpy
+pyproj
