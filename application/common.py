@@ -1,3 +1,5 @@
+# Copyright (c) 2019, Anders Lervik.
+# Distributed under the MIT License. See LICENSE for more info.
 """Common method for the package."""
 import errno
 import json

@@ -1,7 +1,8 @@
+# Copyright (c) 2019, Anders Lervik.
+# Distributed under the MIT License. See LICENSE for more info.
 """Create a website with the folium map and precipitation info."""
 import datetime
 import os
-import pathlib
 import jinja2
 from normetapi import location_forecast
 from frostapi import get_precipitation_observations
@@ -16,7 +17,6 @@ from common import (
     CHART_FILE,
     set_up_directories,
     TIME_OUT_FMT,
-    BUILD_DIR,
     write_text_to_file,
     MAP_FILE,
     TABLE_FILE,

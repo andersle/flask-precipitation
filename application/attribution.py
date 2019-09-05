@@ -1,3 +1,5 @@
+# Copyright (c) 2019, Anders Lervik.
+# Distributed under the MIT License. See LICENSE for more info.
 """Add an extra attribution to a folium map."""
 from branca.element import Figure, MacroElement
 from jinja2 import Template

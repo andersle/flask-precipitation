@@ -1,3 +1,5 @@
+# Copyright (c) 2019, Anders Lervik.
+# Distributed under the MIT License. See LICENSE for more info.
 """Add a Easy-Button to a folium map."""
 from branca.element import CssLink, Figure, MacroElement, JavascriptLink
 from jinja2 import Template

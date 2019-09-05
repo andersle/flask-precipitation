@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# Copyright (c) 2019, Anders Lervik.
+# Distributed under the MIT License. See LICENSE for more info.
 """A flask application for serving the map."""
 import os
 from flask import Flask

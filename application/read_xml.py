@@ -1,3 +1,5 @@
+# Copyright (c) 2019, Anders Lervik.
+# Distributed under the MIT License. See LICENSE for more info.
 """Parse and interpret some XML data from the MET Norway Weather API."""
 import datetime
 import json

@@ -1,3 +1,5 @@
+# Copyright (c) 2019, Anders Lervik.
+# Distributed under the MIT License. See LICENSE for more info.
 """Create a map using folium."""
 import folium
 from attribution import Attribution
