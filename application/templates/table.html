@@ -1,0 +1,71 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"</script>
+<script src="https://cdn.datatables.net/1.10.18/js/dataTables.bootstrap4.min.js"</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#precipitation').DataTable( {
+        "paging": false,
+        "ordering": true,
+        "info": false,
+        "searching": false,
+        "order": [[1, "asc"]]
+    } );
+} );
+</script>
+<title>Precipitation forecast</title>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="{{map_url}}">Map</a>
+    </li>
+    <li class="nav-item active">
+      <a class="nav-link" href="#">Precipitation table</a>
+    </li>
+  </ul>
+</nav>
+
+<div class="jumbotron">
+  <h1 class="display-4">Precipitation data</h1>
+  <p class="lead">Last update of forecast data: {{update_time}}</p>
+  <hr class="my-4">
+  <p>Forecast data is provided by
+<a href="https://www.met.no/en">Meteorologisk institutt (MET Norway)</a> (see also the <a href="https://api.met.no/">WeatherAPI documentation</a>).</p>
+  <p>Observation data is provided by Meteorologisk institutt via the <a href="https://frost.met.no/index.html">Frost API</a>.</p> 
+ <a class="btn btn-primary btn-lg" href="{{map_url}}" role="button">Open map</a>
+ <a class="btn btn-primary btn-lg" href="#precipitation" role="button">Table data</a>
+</div>
+
+
+<table id="precipitation" class="table table-striped table-bordered" style="width:100%">
+  <caption>{{ table.caption }} </caption>
+  <thead class="thead-light">
+    <tr>{% for header in table.headers %}
+      <th scope="col">{{ header }}</th>{% endfor %}
+    </tr>
+  </thead>
+  <tbody>{% for row in table.rows %}
+    <tr>
+      <th scope="row"><a href="{{row.url}}">{{ row.name }}</a></th>
+      <th>{{ row.amount }}</th>
+      <th>{{ row.rain_starts }}</th>
+      <th>{{ row.hours_with_rain }}</th>
+    </tr>{% endfor %}
+  </tbody>
+</table>
+
+</body>
+</html>
