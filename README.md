@@ -19,7 +19,7 @@ export FROST_CLIENT_ID=your-client-id-for-frost
 ```
 
 The places to obtain information for are listed in the file
-[places.json](https://raw.githubusercontent.com/andersle/flask-precipitation/master/places.json).
+[places.json](https://raw.githubusercontent.com/andersle/flask-precipitation/master/application/places.json).
 
 The application itself is executed in the usual fashion:
 
@@ -27,7 +27,7 @@ The application itself is executed in the usual fashion:
 ./app.py
 ```
 
-## Example of generated output
+## Example: Screenshots of generated html
 
 ![Data table](/examples/table.png)
 ![map1](/examples/map1.png)
