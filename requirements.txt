@@ -2,8 +2,11 @@ altair
 jinja2
 flask
 folium
+jinja2
 lxml
 matplotlib
 normetapi
 numpy
+pandas
 pyproj
+requests
