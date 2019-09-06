@@ -98,6 +98,7 @@ def create_folium_map():
         location=['63.446827', 10.421906],
         tiles=None,
         zoom_start=11,
+        control_scale = True,
     )
     for tile in TILES:
         folium.TileLayer(
